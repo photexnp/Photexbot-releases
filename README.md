@@ -15,11 +15,11 @@ Pick your computer and click to download. Java is bundled, so nothing else is ne
 
 | Computer | Download | Size |
 |---|---|---|
-| **Mac with Apple Silicon** (M1 and later) | [Photexbot-1.0.3-macos-arm64.dmg](https://github.com/photexnp/Photexbot-releases/releases/download/v1.0.3/Photexbot-1.0.3-macos-arm64.dmg) | 118 MB |
-| **Mac with Intel** | [Photexbot-1.0.3-macos-x64.dmg](https://github.com/photexnp/Photexbot-releases/releases/download/v1.0.3/Photexbot-1.0.3-macos-x64.dmg) | 120 MB |
-| **Windows 10/11** (installer) | [Photexbot-1.0.3-windows-x64.msi](https://github.com/photexnp/Photexbot-releases/releases/download/v1.0.3/Photexbot-1.0.3-windows-x64.msi) | 120 MB |
-| **Windows** (portable, no install) | [Photexbot-1.0.3-windows-x64-portable.zip](https://github.com/photexnp/Photexbot-releases/releases/download/v1.0.3/Photexbot-1.0.3-windows-x64-portable.zip) | 118 MB |
-| **Ubuntu 22.04+ / Debian** | [photexbot_1.0.3_amd64.deb](https://github.com/photexnp/Photexbot-releases/releases/download/v1.0.3/photexbot_1.0.3_amd64.deb) | 115 MB |
+| **Mac with Apple Silicon** (M1 and later) | [Photexbot-1.0.4-macos-arm64.dmg](https://github.com/photexnp/Photexbot-releases/releases/download/v1.0.4/Photexbot-1.0.4-macos-arm64.dmg) | 118 MB |
+| **Mac with Intel** | [Photexbot-1.0.4-macos-x64.dmg](https://github.com/photexnp/Photexbot-releases/releases/download/v1.0.4/Photexbot-1.0.4-macos-x64.dmg) | 120 MB |
+| **Windows 10/11** (installer) | [Photexbot-1.0.4-windows-x64.msi](https://github.com/photexnp/Photexbot-releases/releases/download/v1.0.4/Photexbot-1.0.4-windows-x64.msi) | 120 MB |
+| **Windows** (portable, no install) | [Photexbot-1.0.4-windows-x64-portable.zip](https://github.com/photexnp/Photexbot-releases/releases/download/v1.0.4/Photexbot-1.0.4-windows-x64-portable.zip) | 118 MB |
+| **Ubuntu 22.04+ / Debian** | [photexbot_1.0.4_amd64.deb](https://github.com/photexnp/Photexbot-releases/releases/download/v1.0.4/photexbot_1.0.4_amd64.deb) | 115 MB |
 
 Not sure which Mac you have? Apple menu → **About This Mac**: "Chip: Apple M…" means Apple Silicon, "Processor: Intel" means Intel.
 All versions are on the [Releases page](https://github.com/photexnp/Photexbot-releases/releases).
